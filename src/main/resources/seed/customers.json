@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1",
+    "name": "Customer-1",
+    "email": "customer1@email.com",
+    "password": "12345678"
+  },
+  {
+    "id": "2",
+    "name": "Customer-2",
+    "email": "customer2@email.com",
+    "password": "12345678"
+  },
+  {
+    "id": "3",
+    "name": "Customer-3",
+    "email": "customer3@email.com",
+    "password": "12345678"
+  },
+  {
+    "id": "4",
+    "name": "Customer-4",
+    "email": "customer4@email.com",
+    "password": "12345678"
+  },
+  {
+    "id": "5",
+    "name": "Customer-5",
+    "email": "customer5@email.com",
+    "password": "12345678"
+  }
+]
