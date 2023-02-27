@@ -6,6 +6,7 @@ This e-commerce project is an API project that allows customers to browse and pu
    <li> Customer management: Customer can be added with their details with their purchased product list.</li>
     <li>Shopping/purchase : Customers can add items to their shopping cart and view a summary of their order. Managemnet can see all purchase details and modify</li>
 </ul>
+
 # Dependency
 For JPA
 <dependency>
@@ -29,6 +30,4 @@ server.port=9008
 spring.jpa.properties.hibernate.dialect = org.hibernate.dialect.MySQL5InnoDBDialect
 
 # Json Collection
-<pre>
-  <b>find the collection of this service from <b> <a href="https://api.postman.com/collections/8359942-cd6be9c6-aeb2-4088-ad55-746c6d4e9041?access_key=PMAT-01GT8PVHTAVYSR6YF29KNK01NQ" target="_blank">here</a>
-</pre>
+  <b><h3>Find the collection of this service from <b> <a href="https://api.postman.com/collections/8359942-cd6be9c6-aeb2-4088-ad55-746c6d4e9041?access_key=PMAT-01GT8PVHTAVYSR6YF29KNK01NQ" target="_blank">here</a><h3>
